@@ -1,0 +1,182 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:2:1-27:12
+MERGED from [com.amazonaws:aws-android-sdk-iot:2.16.4] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\46e0a06b035740f3a5341af7a18dde18\AndroidManifest.xml:1:1-6:12
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.16.4] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\11bea9bfe23d7668b77ea6dc1f974dda\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\4b362ace73310e0bc46b41b94bbbbe71\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\c3a13f13e83ac3207347db061116142a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\b64357adf26fa176fa8eaa8774e3338a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\39fa61191682341ac203c4d1dcdd8564\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\159c04b2bf9f7afa87870f17497fd808\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\6cd2767e2f1c1d5d93cf39c619933fe7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\26b2430c9c3b2c35093470f035bd3292\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\db97968ff1f38c1d8fd260ea4a83516e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\d4cad72fd5b0c7c0792949645b23c39e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\c120f2e965cdf9b604b470b0a8e645ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\cc3f78e29dc6f2e75030032ac3a3a013\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\15197e38dbb7251683efda014de6a17c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\bb673b08f6acd36f717da56b043128f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\05f0cb76981a61e75681bd4948eabc71\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\4fdfc6cf3c5dc0d803d9f08f13bcae09\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\624e2e8f84d70da4eceb6bccc9e55867\AndroidManifest.xml:2:1-11:12
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.16.4] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\ee51c0a9db0077bb7c8b64fd8bc9ab56\AndroidManifest.xml:2:1-4:80
+MERGED from [org.conscrypt:conscrypt-android:2.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\e451e263b81c0a6c88b6f340733b95d5\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\8e46338583093196698f4e69aa4a50d0\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\477f8c2aa9cb759f8228e784d6896e24\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\323ac4589af8ab361772ac8162609b52\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\a6994423ae56f8fd220045ba4a4a21ae\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\e60cb8b6801352d7ad71d01b824723ec\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\1bb86970afa9d6e33e1558dacf4bc99b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\01dd9dfd959144c6689ba3a5a4f923a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\9c7939cc2213efc0e1d55405b2dce45c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\c603ff6d9c9a4e82438a4175b292b429\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\28babcefa1a95447a8052d62c838a9d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\ef628c4955c8f17e5bcaf0521606e48f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:3:5-47
+	android:versionName
+		ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml
+		INJECTED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml
+		INJECTED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:7:5-67
+MERGED from [com.amazonaws:aws-android-sdk-iot:2.16.4] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\46e0a06b035740f3a5341af7a18dde18\AndroidManifest.xml:5:5-66
+MERGED from [com.amazonaws:aws-android-sdk-iot:2.16.4] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\46e0a06b035740f3a5341af7a18dde18\AndroidManifest.xml:5:5-66
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.16.4] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\11bea9bfe23d7668b77ea6dc1f974dda\AndroidManifest.xml:6:5-66
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.16.4] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\11bea9bfe23d7668b77ea6dc1f974dda\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:7:22-64
+application
+ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:9:5-25:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\4fdfc6cf3c5dc0d803d9f08f13bcae09\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\4fdfc6cf3c5dc0d803d9f08f13bcae09\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\624e2e8f84d70da4eceb6bccc9e55867\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\624e2e8f84d70da4eceb6bccc9e55867\AndroidManifest.xml:9:5-20
+MERGED from [org.conscrypt:conscrypt-android:2.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\e451e263b81c0a6c88b6f340733b95d5\AndroidManifest.xml:11:5-20
+MERGED from [org.conscrypt:conscrypt-android:2.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\e451e263b81c0a6c88b6f340733b95d5\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\8e46338583093196698f4e69aa4a50d0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\8e46338583093196698f4e69aa4a50d0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\4fdfc6cf3c5dc0d803d9f08f13bcae09\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:11:9-38
+	android:allowBackup
+		ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:10:9-35
+activity#com.amazonaws.demo.parkingspotify.MainActivity
+ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:15:19-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:19:27-74
+activity#com.amazonaws.demo.parkingspotify.ParkingActivity
+ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:22:9-86
+	android:name
+		ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:22:19-83
+activity#com.amazonaws.demo.parkingspotify.PubSubActivity
+ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:23:9-94
+	android:name
+		ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:23:19-82
+activity#com.amazonaws.demo.parkingspotify.MqttTestActivity
+ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:24:9-86
+	android:name
+		ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml:24:19-84
+uses-sdk
+INJECTED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml
+INJECTED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml
+MERGED from [com.amazonaws:aws-android-sdk-iot:2.16.4] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\46e0a06b035740f3a5341af7a18dde18\AndroidManifest.xml:3:5-73
+MERGED from [com.amazonaws:aws-android-sdk-iot:2.16.4] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\46e0a06b035740f3a5341af7a18dde18\AndroidManifest.xml:3:5-73
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.16.4] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\11bea9bfe23d7668b77ea6dc1f974dda\AndroidManifest.xml:4:5-73
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.16.4] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\11bea9bfe23d7668b77ea6dc1f974dda\AndroidManifest.xml:4:5-73
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\4b362ace73310e0bc46b41b94bbbbe71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\4b362ace73310e0bc46b41b94bbbbe71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\c3a13f13e83ac3207347db061116142a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\c3a13f13e83ac3207347db061116142a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\b64357adf26fa176fa8eaa8774e3338a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\b64357adf26fa176fa8eaa8774e3338a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\39fa61191682341ac203c4d1dcdd8564\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\39fa61191682341ac203c4d1dcdd8564\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\159c04b2bf9f7afa87870f17497fd808\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\159c04b2bf9f7afa87870f17497fd808\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\6cd2767e2f1c1d5d93cf39c619933fe7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\6cd2767e2f1c1d5d93cf39c619933fe7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\26b2430c9c3b2c35093470f035bd3292\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\26b2430c9c3b2c35093470f035bd3292\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\db97968ff1f38c1d8fd260ea4a83516e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\db97968ff1f38c1d8fd260ea4a83516e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\d4cad72fd5b0c7c0792949645b23c39e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\d4cad72fd5b0c7c0792949645b23c39e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\c120f2e965cdf9b604b470b0a8e645ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\c120f2e965cdf9b604b470b0a8e645ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\cc3f78e29dc6f2e75030032ac3a3a013\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\cc3f78e29dc6f2e75030032ac3a3a013\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\15197e38dbb7251683efda014de6a17c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\15197e38dbb7251683efda014de6a17c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\bb673b08f6acd36f717da56b043128f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\bb673b08f6acd36f717da56b043128f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\05f0cb76981a61e75681bd4948eabc71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\05f0cb76981a61e75681bd4948eabc71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\4fdfc6cf3c5dc0d803d9f08f13bcae09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\4fdfc6cf3c5dc0d803d9f08f13bcae09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\624e2e8f84d70da4eceb6bccc9e55867\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\624e2e8f84d70da4eceb6bccc9e55867\AndroidManifest.xml:5:5-7:41
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.16.4] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\ee51c0a9db0077bb7c8b64fd8bc9ab56\AndroidManifest.xml:4:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.16.4] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\ee51c0a9db0077bb7c8b64fd8bc9ab56\AndroidManifest.xml:4:1-69
+MERGED from [org.conscrypt:conscrypt-android:2.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\e451e263b81c0a6c88b6f340733b95d5\AndroidManifest.xml:7:5-9:41
+MERGED from [org.conscrypt:conscrypt-android:2.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\e451e263b81c0a6c88b6f340733b95d5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\8e46338583093196698f4e69aa4a50d0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\8e46338583093196698f4e69aa4a50d0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\477f8c2aa9cb759f8228e784d6896e24\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\477f8c2aa9cb759f8228e784d6896e24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\323ac4589af8ab361772ac8162609b52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\323ac4589af8ab361772ac8162609b52\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\a6994423ae56f8fd220045ba4a4a21ae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\a6994423ae56f8fd220045ba4a4a21ae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\e60cb8b6801352d7ad71d01b824723ec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\e60cb8b6801352d7ad71d01b824723ec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\1bb86970afa9d6e33e1558dacf4bc99b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\1bb86970afa9d6e33e1558dacf4bc99b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\01dd9dfd959144c6689ba3a5a4f923a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\01dd9dfd959144c6689ba3a5a4f923a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\9c7939cc2213efc0e1d55405b2dce45c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\9c7939cc2213efc0e1d55405b2dce45c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\c603ff6d9c9a4e82438a4175b292b429\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\c603ff6d9c9a4e82438a4175b292b429\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\28babcefa1a95447a8052d62c838a9d7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\28babcefa1a95447a8052d62c838a9d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\ef628c4955c8f17e5bcaf0521606e48f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\ef628c4955c8f17e5bcaf0521606e48f\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml
+INJECTED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml
+		ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml
+		INJECTED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml
+		ADDED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml
+		INJECTED from C:\Users\zarve\Desktop\EE701\AndroidPubSubv4_Rajat\AndroidPubSubv4_Rajat\ParkingSpotIFY\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.amazonaws:aws-android-sdk-mobile-client:2.16.4] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\11bea9bfe23d7668b77ea6dc1f974dda\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-mobile-client:2.16.4] C:\Users\zarve\.gradle\caches\transforms-2\files-2.1\11bea9bfe23d7668b77ea6dc1f974dda\AndroidManifest.xml:7:22-76

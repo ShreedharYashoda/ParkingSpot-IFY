@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="#d3d3d3">
+
+<!--    <Button-->
+<!--        android:id="@+id/button1"-->
+<!--        android:layout_width="120dp"-->
+<!--        android:layout_height="100dp"-->
+<!--        android:layout_below="@+id/test"-->
+<!--        android:layout_centerHorizontal="true"-->
+<!--        android:layout_marginTop="178dp"-->
+<!--        android:background="#a2fcbe"-->
+<!--        android:clickable="true"-->
+<!--        android:onClick="parkingButton"-->
+<!--        android:text="Look for a Spot"-->
+<!--        android:textColor="@android:color/holo_red_dark"></Button>-->
+
+    <ImageButton
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="300dp"
+        android:padding="8dp"
+        android:scaleType="center"
+        android:background="@drawable/testing_bttn"
+        android:id="@+id/test"
+        android:onClick="test"
+        android:clickable="true"></ImageButton>
+
+    <ImageButton
+        android:id="@+id/button2"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="50dp"
+        android:onClick="mqttTest"
+        android:clickable="true"
+        android:paddingLeft="8dp"
+        android:scaleType="center"
+        android:background="@drawable/parking_bttn"
+        ></ImageButton>
+
+    <TextView
+        android:id="@+id/develop"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="Developed By-WINGS Lab"
+        android:visibility="gone"></TextView>
+<!--        android:layout_alignParentRight="true"-->
+
+
+<!--    <Button-->
+<!--        android:id="@+id/button2"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_alignParentStart="true"-->
+<!--        android:layout_alignParentTop="true"-->
+<!--        android:layout_marginStart="0dp"-->
+<!--        android:layout_marginTop="89dp"-->
+<!--        android:onClick="mqttTest"-->
+<!--        android:text="Test for PubSub Page" />-->
+
+</RelativeLayout>
